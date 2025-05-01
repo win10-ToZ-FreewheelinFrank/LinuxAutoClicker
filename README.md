@@ -22,3 +22,8 @@ Follow this tutorial on [How to use Max Auto Clicker](https://maxautoclicker.blo
 ## Repositories
 - GitHub: https://github.com/mautosoft/maxautoclicker/
 - SourceForge: https://sourceforge.net/projects/maxautoclicker/
+
+## nothing inside?
+- yep nothing.
+- weird public thing i weirdly made :P.
+- i tryied to make a autoclicker but failed somehow it forked to MAC -max auto clicker- \__(O-O)__/
